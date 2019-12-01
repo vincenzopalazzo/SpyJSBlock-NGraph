@@ -1,0 +1,9 @@
+{
+  "files": [
+    "i5-6300U@4x_3GH_gcc7.4.0.json",
+    "i7-4790@8x4GHz-gcc-7.4.0.json"
+  ],
+  "scalabilityFile": [
+    "OneFile.temp"
+  ]
+}

@@ -1,1 +1,1 @@
-SpyJSBlock-NGraph
+spycblock-ngraph

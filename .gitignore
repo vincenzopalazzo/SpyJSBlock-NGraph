@@ -1,0 +1,9 @@
+#dir
+
+.tmp
+node_modules
+
+#file
+
+package-lock.json
+app/resources/
